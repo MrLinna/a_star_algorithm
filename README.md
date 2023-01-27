@@ -1,2 +1,4 @@
-# a_star_algorithm
- 
+
+
+
+\title{$2A^{*}$}
